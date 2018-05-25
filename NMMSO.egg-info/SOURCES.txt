@@ -1,0 +1,10 @@
+setup.py
+NMMSO/__init__.py
+NMMSO/insect.py
+NMMSO/swarm.py
+NMMSO/utilities.py
+NMMSO.egg-info/PKG-INFO
+NMMSO.egg-info/SOURCES.txt
+NMMSO.egg-info/dependency_links.txt
+NMMSO.egg-info/not-zip-safe
+NMMSO.egg-info/top_level.txt
