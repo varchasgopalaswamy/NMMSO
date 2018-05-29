@@ -1,11 +1,14 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: NMMSO
-Version: 0.1
-Summary: The funniest joke in the world
+Version: 1.0
+Summary: Python Implementation of the Niching Migratory Multi-Swarm Optimizer
 Home-page: UNKNOWN
 Author: Varchas Gopalaswamy
 Author-email: vgop@lle.rochester.edu
 License: MIT
+Download-URL: https://github.com/varchasgopalaswamy/NMMSO/archive/1.0.tar.gz
 Description-Content-Type: UNKNOWN
 Description: UNKNOWN
+Keywords: optimizer,black,box,black-box,optimize,swarm,particle,niching,multi-modal
 Platform: UNKNOWN
+Requires: numpy
